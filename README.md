@@ -6,7 +6,7 @@
 
 <div align="left">
  
- #### *(aka `brandoncastillodev`👨‍💻)*
+ #### *(aka `brandon castillo dev`👨‍💻)*
  
 </div>
 
@@ -22,7 +22,7 @@
  - ✍️ *Love creating things.*
  - ✅ *3D animations enthusiastic.*
  - 🏓 *Teamwork.*
- - 😀 *OpenCode enthusiastic.* 
+ - 😀 *Claude enthusiastic.* 
  - 💻 *Portfolio. [**[🌐]**](https://brandon-castillo.vercel.app/)* *Personal Web. [**[🚀]**](https://brandon-portfolio-phi.vercel.app/)*
 
 </div>
