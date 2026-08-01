@@ -6,24 +6,24 @@
 
 <div align="left">
  
- #### *(aka `brandon castillo dev`👨‍💻)*
+ #### *(aka `brandoncastillodev`👨‍💻)*
  
 </div>
 
 <div align="center">
  
-  ### ***💫 ``Front End & UX Designer:``***
+  ### *** ``🌟 full stack developer / ux-ui design ``***
  
 </div>
 
 <div align="left">
  
  - 🇦🇷 *From Buenos Aires, Argentina.*
- - ✍️ *Love creating original webs.*
- - ✅ *3D animations enthusiastic*
- - 🏓 *Love to work on teams.*
- - 🩷 *Sass enthusiastic* 
- - 💻 *Portfolio. [**[🌐]**](https://brandon-castillo.vercel.app/)*
+ - ✍️ *Love creating things.*
+ - ✅ *3D animations enthusiastic.*
+ - 🏓 *Teamwork.*
+ - 😀 *OpenCode enthusiastic.* 
+ - 💻 *Portfolio. [**[🌐]**](https://brandon-castillo.vercel.app/)* *Personal Web. [**[🚀]**](https://brandon-portfolio-phi.vercel.app/)*
 
 </div>
 
@@ -52,7 +52,7 @@
 <div align="center"> 
 
 
- ### ``I can't wait to work on cool stuff!``
+ ### ``I can't wait to work on cool stuff``
  ### 🚀
  
 
