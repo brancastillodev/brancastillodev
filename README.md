@@ -12,7 +12,7 @@
 
 <div align="center">
  
-  ### *** ``🌟 full stack developer / ux-ui design ``***
+  ### ``🌟 full stack developer / ux-ui design ``
  
 </div>
 
