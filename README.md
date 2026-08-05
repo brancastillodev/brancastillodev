@@ -22,8 +22,8 @@
  - ✍️ *Love creating things.*
  - ✅ *3D animations enthusiastic.*
  - 🏓 *Teamwork.*
- - 😀 *Claude enthusiastic.* 
- - 💻 *Web. [**[🌐]**](https://brandon-castillo.vercel.app/)*
+ - 😀 *Claude Code enthusiastic.* 
+ - 💻 *Portfolio. [**[🌐]**](https://brandon-castillo.vercel.app/)*
  
 </div>
 
