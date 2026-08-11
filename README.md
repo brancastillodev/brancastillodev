@@ -23,7 +23,7 @@
  - ✅ *3D animations enthusiastic.*
  - 🏓 *Teamwork.*
  - 😀 *Claude Code enthusiastic.* 
- - 💻 *Portfolio. [**[🌐]**](https://brandon-castillo.vercel.app/)*
+ - 💻 *Personal Projects. [**[🌐]**](https://brandon-portfolio-phi.vercel.app/)*
  
 </div>
 
