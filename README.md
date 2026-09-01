@@ -52,7 +52,7 @@
 <div align="center"> 
 
 
- ### ``I can't wait to work on cool stuff``
+ ### ``I can't wait to work on cool stuff!``
  ### 🚀
  
 
