@@ -24,7 +24,7 @@
  - 🖼️ *Pixel-Perfect.*
  - 🏓 *Teamwork.*
  - 😀 *Claude Code enthusiastic.* 
- - 💻 *Personal Projects. [**[🌐]**](https://brandon-portfolio-phi.vercel.app/)*
+ - 💻 *Personal Projects. [**[🌐]**](https://brandon-portfolio-phi.vercel.app/projects)*
  
 </div>
 
