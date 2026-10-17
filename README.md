@@ -23,7 +23,7 @@
  - ✅ *3D animations enthusiastic.*
  - 🖼️ *Pixel-Perfect.*
  - 🏓 *Teamwork.*
- - 😀 *Claude Code enthusiastic.* 
+ - 😀 *OpenCode enthusiastic.* 
  - 💻 *Personal Projects. [**[🌐]**](https://brandon-portfolio-phi.vercel.app/projects)*
  
 </div>
